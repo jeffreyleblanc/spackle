@@ -1,0 +1,7 @@
+*.pyc
+node_modules/
+package-lock.json
+
+/spa-src/dist/
+/static/*.css*
+/static/*.js*
